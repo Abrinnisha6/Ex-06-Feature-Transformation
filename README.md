@@ -4,7 +4,7 @@
 
 To read the given data and perform Feature Transformation process and save the data to a file.
 
-# EXPLANATION :'
+# EXPLANATION :
 
 Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
 
@@ -112,47 +112,37 @@ plt.show()
 
 ![Screenshot 2023-05-17 235227](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/b7b57aea-d6ea-4ee7-a7e6-110d440db24c)
 
-## HIGHLY POSITIVE SKEW :
+## BEFORE TRANSFORMATION :
 
-![Screenshot 2023-05-08 113107](https://user-images.githubusercontent.com/118889454/236745822-e2631dc7-3e75-43b1-a763-cc250ba6e39e.png)
+![Screenshot 2023-05-18 000326](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/026b6ff9-8370-4936-9c55-8ec65ee35707)
 
-![Screenshot 2023-05-08 113139](https://user-images.githubusercontent.com/118889454/236745919-c87b21e5-e153-44db-af7d-6e87370ebfde.png)
+![Screenshot 2023-05-18 000345](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/1381b257-c371-437f-9124-6bbb5520706a)
 
-## HIGHLY NEGATIVE SKEW : 
+![Screenshot 2023-05-18 000547](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/55e368f3-4b98-4f86-bf69-efa43d636f7c)
 
-![Screenshot 2023-05-08 113230](https://user-images.githubusercontent.com/118889454/236746020-98e98b8f-c1c1-42a2-a2b0-fce23a6e3843.png)
+![Screenshot 2023-05-18 000616](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/985aec93-f1a4-4935-a6c9-3c610f3a9a2c)
 
-## MODERATE POSITIVE SKEW :
+## LOG TRANSFORMATION :
+ 
+![Screenshot 2023-05-18 000852](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/7640e2be-1404-45b9-815b-74e1697d6980)
 
-![Screenshot 2023-05-08 113319](https://user-images.githubusercontent.com/118889454/236746140-b53e1185-45e0-4cbd-8f1e-9fe331609a5b.png)
+## RECIPROCAL TRANSFORMATION :
 
-## MODERATE NEGATIVE SKEW : 
+![Screenshot 2023-05-18 001016](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/3ea97e42-84ab-478c-9be8-a9d7e6cb067a)
 
-![Screenshot 2023-05-08 113400](https://user-images.githubusercontent.com/118889454/236746253-2aea507b-872a-41de-b1a8-df77d8acfadf.png)
+## SQAURE RROT TRANSFORMATION :
 
-## LOG OF MODERATE POSITIVE SKEW :
+![Screenshot 2023-05-18 001114](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/fe4607f9-31d0-4522-a5cf-74dc3d9e2513)
 
-![Screenshot 2023-05-08 113447](https://user-images.githubusercontent.com/118889454/236746393-47855ac2-a498-4e96-911c-f9a28219de15.png)
+![Screenshot 2023-05-18 001126](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/6d92c687-1818-4be2-8873-e5244cc8fedb)
 
-## LOG OF HIGHLY POSITIVE SKEW :
+## POWER TRANSFORMATION :
 
-![Screenshot 2023-05-08 113533](https://user-images.githubusercontent.com/118889454/236746516-f8f59943-0bf5-4569-a076-2c9787661b19.png)
-
-## RECIPROCAL OF HIGHLY POSITIVE SKEW : 
-
-![Screenshot 2023-05-08 113620](https://user-images.githubusercontent.com/118889454/236746648-acac828d-b9b9-4302-8da3-1392164c1c80.png)
-
-## SQUARE ROOT TRANSFORMATION :
-
-![Screenshot 2023-05-08 113655](https://user-images.githubusercontent.com/118889454/236746755-4909d2dd-bd10-4547-848a-732afd203a9e.png)
-
-## POWER TRANSFORMATION OF MODERATE NEGATIVE SKEW :
-
-![Screenshot 2023-05-08 113744](https://user-images.githubusercontent.com/118889454/236746892-04f4f145-c7ed-4f76-8430-8e0fed552643.png)
+![Screenshot 2023-05-18 001437](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/b51df7d8-0e69-46c1-a054-3fb5c47aa701)
 
 ## QUANTILE TRANSFORMATION :
 
-![Screenshot 2023-05-08 113832](https://user-images.githubusercontent.com/118889454/236747022-b9ee1319-5020-4249-8ab4-5d06dba11f3c.png)
+![Screenshot 2023-05-18 001634](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/fa32b257-3062-4636-a3f7-85f144d995f4)
 
 # RESULT:
 
