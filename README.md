@@ -92,21 +92,25 @@ plt.show()
 
 # OUTPUT:
 
-## DATASET :
+## DATA :
 
-![Screenshot 2023-05-08 112659](https://user-images.githubusercontent.com/118889454/236745326-df06e0a4-c945-49cb-97ad-87216cdc4d5b.png)
+![Screenshot 2023-05-17 234557](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/ec468a68-5437-4389-a954-1dfa7df00786)
 
-## ISNULL :
+## df.head() :
 
-![Screenshot 2023-05-08 112814](https://user-images.githubusercontent.com/118889454/236745445-4bbd80ad-ecf9-4217-a11f-a9ffdd9d9ecc.png)
+![Screenshot 2023-05-17 234916](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/13ca199e-1905-48c4-9b93-4535f9e94b4d)
 
-## INFO :
+## df.isnull().sum() :
 
-![Screenshot 2023-05-08 112924](https://user-images.githubusercontent.com/118889454/236745591-17617128-bf9d-4a4e-9916-3ffb0cdcdc91.png)
+![Screenshot 2023-05-17 235047](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/d3a10c10-df90-4acf-abf0-2356e0a3077a)
 
-## DESCRIBE : 
+## df.info() :
 
-![Screenshot 2023-05-08 113009](https://user-images.githubusercontent.com/118889454/236745698-fe3efad7-11e4-4c7d-af62-79bd0cf7fe22.png)
+![Screenshot 2023-05-17 235109](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/44b8242e-2a8c-4f75-b331-b048835a3d35)
+
+## df.describe() : 
+
+![Screenshot 2023-05-17 235227](https://github.com/Abrinnisha6/Ex-06-Feature-Transformation/assets/118889454/b7b57aea-d6ea-4ee7-a7e6-110d440db24c)
 
 ## HIGHLY POSITIVE SKEW :
 
